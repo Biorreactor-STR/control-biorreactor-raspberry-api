@@ -1,0 +1,18 @@
+{   "led": {
+        "status":true,
+        "ultima modificacao": "00",
+        "id":3
+
+    },
+    "motor-dc-01":{
+        "id":1,
+        "status":true,
+        "volume":0.5
+    },
+    "motor-dc-02":{
+        "id":2,
+        "status":true,
+        "volume":0.5
+    }
+    
+}

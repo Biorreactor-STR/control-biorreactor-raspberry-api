@@ -1,0 +1,15 @@
+{
+    "status": true,
+    "version": "1.0.4",
+    "hora de inicio": "14:34",
+    "time de duracao": 3.00,
+    "status_sensores":{
+        "ph":true,
+        "temperatura":true,
+        "oxigenio dissolvido":true,
+        "agitacao": true,
+        "tds": true,
+        "pressao": true
+        
+    }
+}
